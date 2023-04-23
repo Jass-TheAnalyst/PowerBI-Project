@@ -1,4 +1,4 @@
-<img src="https://github.com/Jass-TheAnalyst/PowerBI-Project/blob/main/Sales%20Analysis%20Project%20Pic.jpg" alt="Sales-Banner" width="1000">
+<img src="https://github.com/Jass-TheAnalyst/PowerBI-Project/blob/main/Sales%20Analysis%20Project%20Pic.jpg" alt="Sales-Banner" width="1000" height="450">
 <h1 align="center">Sales Analysis Project | Power B.I.
 
 <h2>Introduction</h2>
@@ -19,7 +19,7 @@
 <li>Created a few measures.</li>
 <li>Used Cards, Filters, Scroller, Bar Charts, Line charts, Tables, and Waterfall chart to represent the data.</li>
 </ul>
-<h2>Dashboard Contents|<a href="">View Dashboard</a></h2>
+<h2>Dashboard Contents|<a href="https://github.com/Jass-TheAnalyst/PowerBI-Project/blob/main/KSR_Project.pdf">View Dashboard</a></h2>
 <ol>
 <li>Total revenue generated.</li>
 <li>Total profit earned.</li>
